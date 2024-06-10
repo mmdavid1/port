@@ -1,6 +1,6 @@
 ---
-title: "WildFire predictor Model"
-description: "Wildfire predictor and display web app"
+title: "Wildfire predictor Model"
+description: "Wildfire predictor model and historical fire display"
 date: "03/18/2024"
 demoURL: "https://youtu.be/WhLpp-TJ9Yc?feature=shared"
 repoURL: "https://github.com/pink10000/BlazeGuard.ai"
