@@ -1,6 +1,6 @@
 ---
 title: "Ecom site"
-description: "Ecommerce website for frined"
+description: "Ecommerce website for Sarah"
 date: "03/18/2024"
 demoURL: "https://seayvintage.com/"
 ---
