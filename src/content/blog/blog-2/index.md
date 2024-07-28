@@ -1,6 +1,6 @@
 ---
-title: "What I Learned Building An AI-powered LMS for UCSD"
-description: "How to win a Hackathon"
+title: "What I Learned Building An AI-powered LMS for my school"
+description: "Interesting things I've learned"
 date: "2024-07-26"
 ---
 
@@ -12,7 +12,7 @@ The thesis behind this is that AI-powered tools have the largest potential for i
 
 ## Incentives and Why They Matter
 
-Incentives are powerful determinants of features and applications in general. The problem that I have faced is not properly understanding incentives, and therefore I can't build out the **perfect** product. For example, when developing the instructor facing application, I don't have a good idea of what the instructor does, or how, or why. 
+Incentives are powerful determinants of features and applications in general. The problem that I have faced is not properly understanding incentives, and therefore I can't build out the a product that the user would like. For example, when developing the instructor facing application, I don't have a good idea of what the instructor does, or how, or why. 
 
 This knowledge gap of incentives leads to forcefully making wrong assumptions, which leads to building out the wrong features, which is a waste of time. 
 
@@ -20,3 +20,8 @@ From now on, on small scale projects where I don't have enough data to understan
 
 Incentives matter because if you reverse engineer being a great developer, you can trace it all the way back to understanding user incentives.
 
+## Small Piece in A Big Puzzle
+
+Even though my team is relatively small (About 10 people more or less developing), this idea still holds true. When building out a product, you usually are a very small part of a large, dynamic puzzle. Therefore, it is important to both get along with other people and constantly collaborate with them, since it is likely you can have a proactive relationship where you both help each other understand different parts of the system, etc.
+
+I will be updating this as I continue to learn more. This is all for now.
