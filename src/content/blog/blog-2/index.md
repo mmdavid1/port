@@ -1,6 +1,6 @@
 ---
 title: "What I Learned Building An AI-powered LMS for my school"
-description: "Interesting things I've learned"
+description: "Interesting things I've learned/thought about"
 date: "2024-07-26"
 ---
 
